@@ -1,0 +1,33 @@
+[
+    {
+        "Houston, Tx": {
+            "First Grade": "A.G Hilliard",
+            "Third Grade": "Varnett Elementary"
+        },
+        "Crosby, Tx": {
+            "Fifth Grade": "Crosby, Middle School"
+        },
+        "Dayton, Tx": {
+            "Ninth Grade": "Dayton High School"
+        },
+        "What is your name?": {
+            "Person 1": "Omari",
+            "Person 2": "Geedo",
+            "Person 3": "Flacco",
+            "Person 4": "Uncle Caleb",
+            "Person 5": "Amerie"
+        },
+        "Favorite Colors": {
+            "Choice 1": "Blue",
+            "Choice 2": "Green",
+            "Choice 3": "Yellow",
+            "Choice 4": "Orange"
+        },
+        "Favorite Rappers": {
+            "Rapper 1": "Playboy Carti",
+            "Rapper 2": "Trippy Red",
+            "Rapper 3": "Currensy",
+            "Rapper 4": "Stalley"
+        }
+    }
+]
